@@ -38,7 +38,7 @@ html {
 .navbar .logo a {
   font-size: 30px;
   font-weight: 500;
-  color: #fff;
+  color: none;
   font-family: "Pacifico";
   transition: all 0.3s ease;
 }
@@ -62,7 +62,7 @@ html {
   font-size: 18px;
   font-weight: 500;
   margin-left: 25px;
-  color: #fff;
+  color: none;
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
@@ -147,7 +147,7 @@ html {
 .home .home-content a {
   display: inline-block;
   background: crimson;
-  color: #fff;
+  color: #FFD700;
   font-size: 25px;
   padding: 8px 20px;
   margin-top: 20px;
