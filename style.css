@@ -379,13 +379,13 @@ section .title::after {
 }
 .projects .carousel .card .box {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   justify-content: center;
   align-items: center;
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover .box {
-  transform: scale(0.88);
+  transform: scale(0.99);
 }
 
 .projects .carousel .card p {
