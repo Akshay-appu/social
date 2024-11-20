@@ -375,17 +375,17 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover {
-  background: rgb(48, 48, 48,48,48);
+  background: rgb(48, 48, 48, 48, 48);
 }
 .projects .carousel .card .box {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: center,left;
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover .box {
-  transform: scale(0.99);
+  transform: scale(0.88);
 }
 
 .projects .carousel .card p {
