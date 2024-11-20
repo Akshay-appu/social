@@ -379,9 +379,9 @@ section .title::after {
 }
 .projects .carousel .card .box {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
-  align-items: center,left;
+  align-items: center;
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover .box {
