@@ -365,7 +365,7 @@ section .title::after {
 
 /* Project section styling */
 .projects .title::after {
-  content: "check my work";
+  content: "check our's work";
 }
 .projects .carousel .card {
   background: #222;
@@ -375,7 +375,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover {
-  background: rgb(48, 48, 48);
+  background: rgb(48, 48, 48,48,48);
 }
 .projects .carousel .card .box {
   display: flex;
